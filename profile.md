@@ -6,38 +6,38 @@
 
 ## About Me
 
-**Full Name:** <!-- e.g. Jane Smith -->
+**Full Name:** Inga Fichetola
 
-**GitHub Username:** <!-- e.g. jsmith42 -->
+**GitHub Username:** I-Fichetola
 
-**What should I call you in class?** <!-- Preferred name or nickname -->
+**What should I call you in class?** Inga
 
 ---
 
 ## My Background
 
 **Have you taken a networking or server course before?**
-<!-- Yes / No — if yes, which one? -->
+I took a Networking course in 2025
 
 **Any experience with Linux, Windows Server, or virtual machines?**
-<!-- A sentence is fine — "none at all" is a perfectly good answer -->
+There is little experience
 
 **What is one thing you want to be able to do by the end of this course?**
-<!-- One sentence -->
+By the end of the course, I want to understand how servers work, what functions they perform, and how they relate/can help to the cybersecurity analyst's responsibilities.
 
 ---
 
 ## My Setup
 
 **What OS does your personal computer run?**
-<!-- Windows / Mac / Linux / I use a lab computer -->
+Windows 11
 
 **Have you used Git or GitHub before this class?**
-<!-- Yes / No / A little bit -->
+A little bit
 
 ---
 
 ## Fun Fact
 
 **One non-tech thing about yourself:**
-<!-- Hobby, sport, where you are from, favorite food — anything! -->
+I don't know how it happened, but I have 29 orchids, and I want more
