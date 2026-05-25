@@ -20,10 +20,10 @@
 I took a Networking course in 2025
 
 **Any experience with Linux, Windows Server, or virtual machines?**
-There is little experience
+There is very little experience with VM
 
 **What is one thing you want to be able to do by the end of this course?**
-By the end of the course, I want to understand how servers work, what functions they perform, and how they relate/can help to the cybersecurity analyst's responsibilities.
+By the end of the course, I want to understand how servers relate/can help to the cybersecurity analyst's responsibilities.
 
 ---
 
